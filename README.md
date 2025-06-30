@@ -5,35 +5,6 @@ It displays summarized news fetched from multiple sources using **NewsAPI** and 
 
 ---
 
-## Screenshots
-
-![Splash Screen](app_screenshots/splash_screen.jpeg)
-![Login Page](app_screenshots/login_page.jpeg)
-![Register Page](app_screenshots/register_page.jpeg)
-![Reset Password](app_screenshots/reset_pword.jpeg)
-![Invalid email format](app_screenshots/invalid_email_frmt.jpeg)
-![Admin HomePage](app_screenshots/admin_homepage.jpeg)
-![Add News](app_screenshots/add_news.jpeg)
-![My Posted Articles](app_screenshots/my_posted_articles.jpeg)
-![Admin Edit Profile](app_screenshots/admin_edit_profile.jpeg)
-![User Home Page](app_screenshots/user_homepage.jpeg)
-![Dark Mode Setting](app_screenshots/dark_mode_setting.jpeg)
-![Dark Mode Look](app_screenshots/dark_mode.jpeg)
-![Search News](app_screenshots/search_news.jpeg)
-![Business Category](app_screenshots/business_caetgory.jpeg)
-![Health Category](app_screenshots/health_category.jpeg)
-![India Category](app_screenshots/india_category.jpeg)
-![Web view](app_screenshots/web_view.jpeg)
-![My Feed](app_screenshots/my_feed.jpeg)
-![Comment Box](app_screenshots/comment_box.jpeg)
-![User Edit Profile](app_screenshots/user_edit_profile.jpeg)
-![My Bookmarks](app_screenshots/my_bookmarks.jpeg)
-![Admin News List](app_screenshots/admin_news_list.jpeg)
-![Admin News](app_screenshots/admin_news.jpeg)
-
-
----
-
 ## Backend (FastAPI)
 
 ### Location: `NEWS_APP_backend/`
@@ -128,3 +99,32 @@ use this email and password for logging into admin page
 This project is for educational/demo purposes only.
 Use your own API keys for NewsAPI and Gemini.
 Never share real credentials publicly.
+
+## Screenshots of my app:
+
+## Screenshots
+
+<img src="app_screenshots/splash_screen.jpeg" alt="Splash Screen" width="400"/>
+<img src="app_screenshots/login_page.jpeg" alt="Login Page" width="400"/>
+<img src="app_screenshots/register_page.jpeg" alt="Register Page" width="400"/>
+<img src="app_screenshots/reset_pword.jpeg" alt="Reset Password" width="400"/>
+<img src="app_screenshots/invalid_email_frmt.jpeg" alt="Invalid email format" width="400"/>
+<img src="app_screenshots/admin_homepage.jpeg" alt="Admin HomePage" width="400"/>
+<img src="app_screenshots/add_news.jpeg" alt="Add News" width="400"/>
+<img src="app_screenshots/my_posted_articles.jpeg" alt="My Posted Articles" width="400"/>
+<img src="app_screenshots/admin_edit_profile.jpeg" alt="Admin Edit Profile" width="400"/>
+<img src="app_screenshots/user_homepage.jpeg" alt="User Home Page" width="400"/>
+<img src="app_screenshots/dark_mode_setting.jpeg" alt="Dark Mode Setting" width="400"/>
+<img src="app_screenshots/dark_mode.jpeg" alt="Dark Mode Look" width="400"/>
+<img src="app_screenshots/search_news.jpeg" alt="Search News" width="400"/>
+<img src="app_screenshots/business_caetgory.jpeg" alt="Business Category" width="400"/>
+<img src="app_screenshots/health_category.jpeg" alt="Health Category" width="400"/>
+<img src="app_screenshots/india_category.jpeg" alt="India Category" width="400"/>
+<img src="app_screenshots/web_view.jpeg" alt="Web view" width="400"/>
+<img src="app_screenshots/my_feed.jpeg" alt="My Feed" width="400"/>
+<img src="app_screenshots/comment_box.jpeg" alt="Comment Box" width="400"/>
+<img src="app_screenshots/user_edit_profile.jpeg" alt="User Edit Profile" width="400"/>
+<img src="app_screenshots/my_bookmarks.jpeg" alt="My Bookmarks" width="400"/>
+<img src="app_screenshots/admin_news_list.jpeg" alt="Admin News List" width="400"/>
+<img src="app_screenshots/admin_news.jpeg" alt="Admin News" width="400"/>
+
