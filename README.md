@@ -36,7 +36,7 @@ It displays summarized news fetched from multiple sources using **NewsAPI** and 
 
 ## Backend (FastAPI)
 
-### 🔹 Location: `backend/`
+### Location: `NEWS_APP_backend/`
 
 1. Install dependencies:
    ```bash
@@ -60,7 +60,7 @@ It displays summarized news fetched from multiple sources using **NewsAPI** and 
 ---
 ## Frontend (Flutter)
 
-### 🔹 Location: 
+### Location: `NEWS_APP_flutter/`
 
 1. Install packages:
    ```bash
