@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "rajunewsapp",
+          "configurations": {
+            "android": "1:402697999636:android:9a7b0712b08cb25972de01",
+            "ios": "1:402697999636:ios:18cd1847a7816bbd72de01"
+          }
+        }
+      },
+      "android": {
+        "default": {
+          "projectId": "rajunewsapp",
+          "appId": "1:402697999636:android:9a7b0712b08cb25972de01",
+          "fileOutput": "android/app/google-services.json"
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix \"$RESOURCE_DIR\" run lint"
+      ]
+    }
+  ]
+}

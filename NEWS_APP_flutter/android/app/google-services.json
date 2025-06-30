@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402697999636",
+    "project_id": "rajunewsapp",
+    "storage_bucket": "rajunewsapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402697999636:android:9a7b0712b08cb25972de01",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIdG8ywAnjqc8ypaGSFS6EaYz5r034Oow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
