@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python virtual environments (if any)
+venv/
+env/
+
+# Pytest cache
+.pytest_cache/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Compiled files
+*.so
+*.pyd
+*.pyo
